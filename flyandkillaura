@@ -92,5 +92,4 @@ end)
 -- Set background
 local Background = Instance.new("ImageLabel", Frame)
 Background.Size = UDim2.new(1, 0, 1, 0)
-Background.Image = "rbxassetid://123456789" -- Replace with your space image asset ID
 Background.ZIndex = 0
